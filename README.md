@@ -1,6 +1,7 @@
 # Fast-sentiment
 
-This is a sentiment analysis project. It was a tutorial in my internship place, zummitafrica to introduce me to fastapi and docker.
+I built an NLP model to test the sentiment of sentences and words. This was done using
+VaderSentiment. It was deployed using docker and fastapi
 
 ![image](https://user-images.githubusercontent.com/63251266/193255781-8cc0a910-f431-4da9-a9bd-bb8bcec6333d.png)
 
